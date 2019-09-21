@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Maps</string>
+    <string name="map_key" translatable="false">
+
+        AIzaSyAK1-SEzMWJLdVayfUtNJw_fN0Xu65KoHs
+    </string>
+</resources>
